@@ -1,12 +1,10 @@
-# [Start Bootstrap - Business Frontpage](https://startbootstrap.com/template/business-frontpage/)
 
-[Business Frontpage](https://startbootstrap.com/template/business-frontpage/) is a basic business website template for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/).
 
 ## Preview
 
 [![Preview CJ's Portfolio](https://ystepanie.github.io/portfolio/)](https://ystepanie.github.io/portfolio/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-business-frontpage/)**
+**[Live View CJ's Portfolio](https://ystepanie.github.io/portfolio/)**
 
 ## Status
 
