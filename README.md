@@ -4,7 +4,7 @@
 
 ## Preview
 
-[![Business Frontpage Preview](https://assets.startbootstrap.com/img/screenshots/templates/business-frontpage.png)](https://startbootstrap.github.io/startbootstrap-business-frontpage/)
+[![Preview CJ's Portfolio](https://assets.startbootstrap.com/img/screenshots/templates/business-frontpage.png)](https://ystepanie.github.io/portfolio/)
 
 **[View Live Preview](https://startbootstrap.github.io/startbootstrap-business-frontpage/)**
 
